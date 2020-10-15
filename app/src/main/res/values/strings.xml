@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EleventhApp</string>
+    <string name="FirstApp">FirstPage</string>
+    <string name="ListView">List Of Fruits</string>
+</resources>
